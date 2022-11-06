@@ -8,7 +8,8 @@
 # Rock Scissors Paper
 
 <div align="center">
-  <img src="img/preview.png" width="1000px"/>
+  <img src="img/preview.png" width="1000px"/> <br/>
+  <a href="https://youtu.be/AzfwTlsCn9A" target="_blank">https://youtu.be/AzfwTlsCn9A</a>
 </div>
 
 <br/><br/>
